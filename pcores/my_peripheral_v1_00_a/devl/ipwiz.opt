@@ -1,0 +1,10 @@
+-batch 
+-create my_peripheral 
+-ver 1.00.a 
+-dir "C:\materija\RA185-2015\lab45" 
+-lang vhdl 
+-bus axi4lite s 
+-reg 1 
+-xps 
+-ise 
+-driver 
